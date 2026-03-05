@@ -18,6 +18,8 @@ Authentication: Clerk
 
 Hosting: Vercel
 
+ImageShrinker: https://image-shrink-backend-wtj4m0o3y-williams-projects-b86ebfca.vercel.app
+
 
 
 
